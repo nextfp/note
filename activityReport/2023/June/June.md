@@ -12,8 +12,8 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 私たちが出場する全日本学生フォーミュラ選手大会の審査項目は、静的審査と動的審査の大きく 2 種類に分かれております。
 おもに静的では、学生の設計者としての能力を動的では、技術者としての能力を判断される審査となっております。
 
-</br>
-</br>
+<br />
+<br />
 
 ## マシンの進捗
 
@@ -21,8 +21,8 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 5 月のエンジン始動では異常が見られませんでしたが、6 月 10 日は異音が発生しエンジンメンテナンスを行い、6 月 29 日は電装トラブルによりエンジンを始動することはできませんでした。  
 そのため、6 月に予定していたシェイクダウンを延長し、次のエンジン始動に向けて調整を進めています。
 
-</br>
-</br>
+<br />
+<br />
 
 ## 静的審査
 
@@ -36,8 +36,8 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 さらに、6月15日にはプレゼン審査の資料を6月22日にはプレゼン審査のSPDの提出を完了致しました。  
 プレゼン審査とはをもし私たちのマシンを大量生産し販売するとしたら、どのような戦略で販売するかを世界情勢に則った毎年出されるお題を基に考え発表するという審査です。
 
-</br>
-</br>
+<br />
+<br />
 
 ## 新入生育成
 
@@ -51,8 +51,8 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 <img src="education2.png" height="300px">
 </center>
 
-</br>
-</br>
+<br />
+<br />
 
 ## その他
 
@@ -60,8 +60,8 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="ja" dir="ltr">新潟大学 <a href="https://twitter.com/NEXT_Formula?ref_src=twsrc%5Etfw">@NEXT_Formula</a> と富山大学 <a href="https://twitter.com/Toyama_TUF?ref_src=twsrc%5Etfw">@Toyama_TUF</a> を取材し、これでちょうど50チームを数えることができました！<br>ありがとうございました❗️ <a href="https://t.co/aqIIYlXayp">pic.twitter.com/aqIIYlXayp</a></p>&mdash; ガクセイフォーミュラジェーピー - 学生フォーミュラ専門メディア (@GakuF_JP) <a href="https://twitter.com/GakuF_JP/status/1671434799125499905?ref_src=twsrc%5Etfw">June 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</br>
-</br>
+<br />
+<br />
 
 ## スポンサー提供
 
@@ -71,7 +71,7 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 
 <img src="https://pbs.twimg.com/media/Fyo0leVaUAAV0-q?format=jpg&name=small" height="300px">
 
-</br>
+<br />
 
 ### 株式会社ニフコ様(http://nifco.com)
 
@@ -79,7 +79,7 @@ https://www.slideshare.net/secret/LA06l5bGQj69Lb
 
 <img src="https://pbs.twimg.com/media/Fyo2G1taAAEC-HU?format=jpg&name=small" height="300px">
 
-</br>
+<br />
 
 ### 小林製作所様（https://kobayashi-weld.com）
 
